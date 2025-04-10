@@ -7,3 +7,7 @@
 
 ## April 9, 2025
 - learnt about CSS. CSS box model, block elements, inline elements, CSS properties, text styling CSS selectors, the id selector, class and pseudo-class selector, conditional pseudo selector, universal selector, pseudo elements. I also learnt about the CSS box model: content, padding, border, margin.
+
+
+## April 10, 2025
+- I tried to put all ive learnt so far into practice by building a landing page but ill complete that tomorrow for sure 
