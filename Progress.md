@@ -11,3 +11,7 @@
 
 ## April 10, 2025
 - I tried to put all ive learnt so far into practice by building a landing page but ill complete that tomorrow for sure 
+
+
+## April 13, 2025
+- learnt about CSS grid, bootstrap and Tailwind 
