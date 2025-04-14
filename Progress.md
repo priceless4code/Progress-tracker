@@ -15,3 +15,6 @@
 
 ## April 13, 2025
 - learnt about CSS grid, bootstrap and Tailwind 
+
+## April 14, 2025
+- Still trying to get a hold of a system yet as i was supposed to build a project today but i still wrote some code today with my phone. I just built a navbar for a portfolio website with bootstrap. Files are attached 
